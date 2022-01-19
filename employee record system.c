@@ -1,4 +1,3 @@
-//LEARNPROGRAMO-PROGRAMMING MADE SIMPLE
 #include <stdio.h> ///for input output functions like printf, scanf
 #include <stdlib.h>
 #include <conio.h>
